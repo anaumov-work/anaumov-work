@@ -1,4 +1,4 @@
-![AlexNaumov_CV](https://github.com/anaumov-work/AlexNaumov_CV/blob/master/AlexNaumov_CV.jpg?raw=true)
+MyCV: https://github.com/anaumov-work/AlexNaumov_CV/blob/master/AlexNaumov_CV.pdf
 
 <!--
 **anaumov-work/anaumov-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
